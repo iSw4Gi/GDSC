@@ -31,8 +31,20 @@
 1. Tkinter
 <br>
 2. matplotlib
+<br>
+
+```js
+pip install tkiner
+```
 
 <br>
+
+
+```js
+pip install matplotlib
+```
+<br>
+
 
 # Thank you For reading 
 
